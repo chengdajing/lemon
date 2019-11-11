@@ -1,4 +1,5 @@
 <template>
+<p>测试代码git</p>
   <div class="counter-warp">
     <p>Vuex counter：{{ count }}</p>
     <p>
