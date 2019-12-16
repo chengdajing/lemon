@@ -1,5 +1,5 @@
 {
-    "navigationBarTitleText": "后街吃货",
+    "navigationBarTitleText": "好店推荐",
     "usingComponents": {
         "i-grid": "../../../static/dist/grid/index",
         "i-grid-item": "../../../static/dist/grid-item/index",

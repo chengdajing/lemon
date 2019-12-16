@@ -35,23 +35,23 @@
 export default {
   data () {
     return {
-      title_name: "热门",
+      title_name: "热门穿搭",
       grids: [
-        {title:"外卖",image:"/static/images/1.png"},
-        {title:"零食",image:"/static/images/2.png"},
-        {title:"主食",image:"/static/images/3.png"},
-        {title:"面食",image:"/static/images/4.png"}
+        {title:"裤子",image:"/static/images/1.png"},
+        {title:"棉服",image:"/static/images/2.png"},
+        {title:"裙子",image:"/static/images/3.png"},
+        {title:"鞋",image:"/static/images/4.png"}
       ],
       top: [
-        {name:"店名1",address:"地址1",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍1"},
-        {name:"店名2",address:"地址2",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍2"},
-        {name:"店名3",address:"地址3",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍3"},
-        {name:"店名4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4"}
+        {name:"回力专卖店",address:"地址1",image:"https://img.alicdn.com/imgextra/i1/2200678870940/O1CN013hIJBu1IoYsPG4qiF_!!0-item_pic.jpg_430x430q90.jpg",remark:"介绍1"},
+        {name:"森马专卖店",address:"地址2",image:"https://gd4.alicdn.com/imgextra/i1/674264529/O1CN01k3LXTd1jKKMGLflLu_!!674264529.jpg_50x50.jpg_.webp",remark:"介绍2"},
+        {name:"花花公子专卖店",address:"地址3",image:"https://img.alicdn.com/imgextra/i2/133449778/O1CN01ZAmeYV2M6NDL2xW4N_!!0-saturn_solar.jpg_220x220.jpg_.webp",remark:"介绍3"},
+        {name:"以纯专卖店",address:"地址4",image:"https://img.alicdn.com/imgextra/i1/53279892/O1CN01KlkukL2MwaSPUOA2G_!!0-saturn_solar.jpg_220x220.jpg_.webp",remark:"介绍4"}
       ],
       imgUrls: [
-        'https://images.unsplash.com/photo-1551334787-21e6bd3ab135?w=640',
-        'https://images.unsplash.com/photo-1551214012-84f95e060dee?w=640',
-        'https://images.unsplash.com/photo-1551446591-142875a901a1?w=640'
+        'http://img4.imgtn.bdimg.com/it/u=1310451738,1415307076&fm=26&gp=0.jpg?w=640',
+        'http://img3.imgtn.bdimg.com/it/u=1239448510,2631450035&fm=26&gp=0.jpg?w=640',
+        'http://img5.imgtn.bdimg.com/it/u=2130833958,3658862499&fm=26&gp=0.jpg?w=640'
       ],
       indicatorDots: false,
       autoplay: false,

@@ -16,8 +16,8 @@ export default {
     return {      
       markers: [{
         id: 0,
-        latitude: 23.099994,
-        longitude: 113.324520,
+        latitude: 30.57785404107645,
+        longitude: 114.33403266982236 ,
         width: 50,
         height: 50
       }]
