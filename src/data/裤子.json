@@ -1,6 +1,6 @@
 [
-    {"name":"主食1","address":"地址1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-    {"name":"主食2","address":"地址2","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍2"},
-    {"name":"主食3","address":"地址3","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍3"},
-    {"name":"主食4","address":"地址4","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍4"}
+    {"name":"休闲裤","address":"价格    ¥149","image":"https://img.alicdn.com/imgextra/i3/124458518/O1CN01fFmW652CnIDgr5mmp_!!0-saturn_solar.jpg_220x220.jpg_.webp","remark":"介绍  裤行百年，经典涌现"},
+    {"name":"休闲裤","address":"价格    ¥569","image":"https://img.alicdn.com/imgextra/i4/131463133/O1CN015izVgC1Z0xS21q9DZ_!!0-saturn_solar.jpg_220x220.jpg_.webp","remark":"介绍  时尚百搭，自由选择"},
+    {"name":"休闲裤","address":"价格    ¥791","image":"https://img.alicdn.com/imgextra/i1/56593822/O1CN01f889zz1e6WK9exjFD_!!0-saturn_solar.jpg_220x220.jpg_.webp","remark":"介绍  时尚简约，尽显青春魅力"},
+    {"name":"休闲裤","address":"价格    ¥953","image":"https://img.alicdn.com/imgextra/i1/96292383/O1CN01mGvHHm1TTSOf5oQYh_!!0-saturn_solar.jpg_220x220.jpg_.webp","remark":"介绍  时尚潮流，酷爽自我"}
 ]

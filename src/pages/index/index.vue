@@ -43,10 +43,10 @@ export default {
         {title:"鞋",image:"/static/images/4.png"}
       ],
       top: [
-        {name:"回力专卖店",address:"地址1",image:"https://img.alicdn.com/imgextra/i1/2200678870940/O1CN013hIJBu1IoYsPG4qiF_!!0-item_pic.jpg_430x430q90.jpg",remark:"介绍1"},
-        {name:"森马专卖店",address:"地址2",image:"https://gd4.alicdn.com/imgextra/i1/674264529/O1CN01k3LXTd1jKKMGLflLu_!!674264529.jpg_50x50.jpg_.webp",remark:"介绍2"},
-        {name:"花花公子专卖店",address:"地址3",image:"https://img.alicdn.com/imgextra/i2/133449778/O1CN01ZAmeYV2M6NDL2xW4N_!!0-saturn_solar.jpg_220x220.jpg_.webp",remark:"介绍3"},
-        {name:"以纯专卖店",address:"地址4",image:"https://img.alicdn.com/imgextra/i1/53279892/O1CN01KlkukL2MwaSPUOA2G_!!0-saturn_solar.jpg_220x220.jpg_.webp",remark:"介绍4"}
+        {name:"回力",address:"价格   ¥258",image:"https://img.alicdn.com/imgextra/i1/2200678870940/O1CN013hIJBu1IoYsPG4qiF_!!0-item_pic.jpg_430x430q90.jpg",remark:"介绍 时尚引领未来，你的不二之选"},
+        {name:"森马",address:"价格   ¥1256",image:"https://gd4.alicdn.com/imgextra/i1/674264529/O1CN01k3LXTd1jKKMGLflLu_!!674264529.jpg_50x50.jpg_.webp",remark:"介绍 穿什么潮我看"},
+        {name:"花花公子",address:"价格    ¥1217",image:"https://img.alicdn.com/imgextra/i2/133449778/O1CN01ZAmeYV2M6NDL2xW4N_!!0-saturn_solar.jpg_220x220.jpg_.webp",remark:"介绍 时尚无处不在，高雅自然出彩"},
+        {name:"以纯",address:"价格    ¥469",image:"https://img.alicdn.com/imgextra/i1/53279892/O1CN01KlkukL2MwaSPUOA2G_!!0-saturn_solar.jpg_220x220.jpg_.webp",remark:"介绍 时尚简约，穿出自然"}
       ],
       imgUrls: [
         'http://img4.imgtn.bdimg.com/it/u=1310451738,1415307076&fm=26&gp=0.jpg?w=640',
