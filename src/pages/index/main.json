@@ -1,5 +1,5 @@
 {
-    "navigationBarTitleText": "好店推荐",
+    "navigationBarTitleText": "章鱼家的小店",
     "usingComponents": {
         "i-grid": "../../../static/dist/grid/index",
         "i-grid-item": "../../../static/dist/grid-item/index",
